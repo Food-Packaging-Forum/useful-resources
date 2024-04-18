@@ -1,4 +1,6 @@
-# useful-resources
+![DALL·E 2024-04-18 14 53 49 - A detailed and artistic illustration for a GitHub repository header image  The image depicts a modern laboratory setting filled with scientific equipm](https://github.com/Food-Packaging-Forum/useful-resources/assets/15371952/2322e7f8-7e1f-4be8-a766-08cabafa5190)
+# Useful resources for chemical studies
+
 
 ## python functions
 - `ExcelToEndNote_function.ipynb`   This Jupyter Notebook contains a Python function that takes a DataFrame with citation information and generates an EndNote-compatible .txt file. The function formats the provided data according to EndNote's requirements for importing references and writes the formatted entries to the specified output file.
